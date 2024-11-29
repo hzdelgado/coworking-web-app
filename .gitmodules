@@ -1,0 +1,3 @@
+[submodule "coworking-api"]
+	path = coworking-api
+	url = https://github.com/hzdelgado/coworking-api
