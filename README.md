@@ -14,6 +14,3 @@ Descripción: Una aplicación web para reservar espacios de coworking o salas de
 
 - **Backend**: Nestjs, PostgreSQL, TypeORM, Yarn.
 - **Frontend**: Angular 15, NgRx, Angular Material, ngx-translate.
-
-
-- 
