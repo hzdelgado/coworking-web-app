@@ -1,3 +1,6 @@
 [submodule "coworking-api"]
 	path = coworking-api
 	url = https://github.com/hzdelgado/coworking-api
+[submodule "coworking-app"]
+	path = coworking-app
+	url = https://github.com/hzdelgado/coworking-app
