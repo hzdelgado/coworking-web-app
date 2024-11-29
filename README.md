@@ -1,3 +1,7 @@
+<div style="background-color: #fff3cd; padding: 10px; border: 1px solid #ffeeba; border-radius: 5px;">
+⚠️ **Aviso:** Las ramas actualizadas son `master` en ambos proyectos.
+</div>
+
 # Proyecto: Sistema de Reservaciones de Espacios de Coworking
 
 Descripción: Una aplicación web para reservar espacios de coworking o salas de reuniones, pueden verificar disponibilidad en tiempo real y realizar reservas. Incluye un buscador de reservas activas.
