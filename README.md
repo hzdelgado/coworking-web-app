@@ -10,3 +10,10 @@ Descripción: Una aplicación web para reservar espacios de coworking o salas de
 - **TypeORM**: ORM para la interacción con la base de datos.
 - **NestJS**: Framework modular para desarrollo backend.
 
+## Características
+
+- **Backend**: Nestjs, PostgreSQL, TypeORM, Yarn.
+- **Frontend**: Angular 15, NgRx, Angular Material, ngx-translate.
+
+
+- 
